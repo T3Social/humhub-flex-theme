@@ -4,7 +4,13 @@ An easy-to-use configurable theme for HumHub.
 
 **Version: 0.3** (built with HumHub version 1.15, tested up to HumHub version 1.17)
 
-**Author:** Felix Hahn, info@hahn-felix.de - self-learned
+**Author:** Felix Hahn, info@felixwebdesign.de
+
+> [!WARNING]
+> This theme is not actively maintained anymore. It is tested up to HumHub version 1.17 only.
+
+> [!TIP]
+> HumHub version 1.18 introduced configurable main colors. Additionally, the Clean theme by CUZY.APP offers a lot of configurability.
 
 ## Installation
 see [INSTALLATION.md](https://github.com/felixhahnweilheim/humhub-flex-theme/blob/main/docs/INSTALLATION.md)
